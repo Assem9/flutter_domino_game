@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">domino_game</string>
+    <string name="facebook_app_id">767934098083489</string>
+    <string name="facebook_client_token">e9fa74aede92d11a5aeefe027c3dcf4f</string>
+    <string name="fb_login_protocol_scheme">fb767934098083489</string>
+</resources>
