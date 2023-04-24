@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498376429637",
+    "project_id": "dominorelease-b7297",
+    "storage_bucket": "dominorelease-b7297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498376429637:android:772462968e7b5767a6532c",
+        "android_client_info": {
+          "package_name": "com.AssemDev.domino_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498376429637-vnutul6no1g0394psnjd8b2t4f3itprr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AssemDev.domino_game",
+            "certificate_hash": "31ebd6ba33663f66a2584df02ebfaf94ac164827"
+          }
+        },
+        {
+          "client_id": "498376429637-pan4fbao86g49dfd28lrqkvkpn7d04n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_616ynVjD7_rfk4OxTcqeHnRFz50GZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498376429637-pan4fbao86g49dfd28lrqkvkpn7d04n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
