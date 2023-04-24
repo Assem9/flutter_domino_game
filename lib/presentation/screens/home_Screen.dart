@@ -268,7 +268,7 @@ class HomeScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             AppLogoWidget(radius: MediaQuery.of(context).size.height/8),
-            const SizedBox(height: 50,),
+            const SizedBox(height: 49,),
             DefaultTextStyle(
               style: Theme.of(context).textTheme.displaySmall!.copyWith(color: MyColors.lemon, fontSize: 40),
               child: AnimatedTextKit(
