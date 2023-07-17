@@ -13,13 +13,13 @@ With Domino Master, you can enjoy the classic game of dominoes anytime, anywhere
 7. Run the project on an emulator or physical device
 
 ## Screenshots
-![Home_screen_gif 1](screenshots/home_vid.gif)
+![Home_screen_gif 1](screenshots/port_home.JPG)
 
-![Home_screen_gif 1](screenshots/offline_mode.png)
+![Home_screen_gif 1](screenshots/port_about.JPG)
 
-![Home_screen_gif 1](screenshots/online_mode.png)
+![Home_screen_gif 1](screenshots/port_projects.JPG)
 
 ![Screenshot 2](screenshots/friends.gif)
 
-![Home_screen_gif 1](screenshots/profile_page.png) 
+![Home_screen_gif 1](screenshots/port_project details.JPG) 
 
