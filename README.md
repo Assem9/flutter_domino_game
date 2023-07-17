@@ -15,7 +15,11 @@ With Domino Master, you can enjoy the classic game of dominoes anytime, anywhere
 ## Screenshots
 ![Home_screen_gif 1](screenshots/home_vid.gif)
 
-![Screenshot 2](screenshots/screenshots/home_vid.gif)
+![Home_screen_gif 1](screenshots/offline_mode.png)
 
-![Home_screen_gif 1](screenshots/First Page202373230.png)
+![Home_screen_gif 1](screenshots/online_mode.png)
+
+![Screenshot 2](screenshots/friends.gif)
+
+![Home_screen_gif 1](screenshots/profile_page.png) 
 
