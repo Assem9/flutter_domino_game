@@ -1,6 +1,9 @@
 # Domino Masters
 
-With Domino Master, you can enjoy the classic game of dominoes anytime, anywhere. Play offline against our intelligent bot opponent, or challenge your friends and family online to see who can come out on top. 
+With Domino Master, you can enjoy the classic game of dominoes anytime, anywhere. Play offline against our intelligent bot opponent, or challenge your friends and family online to see who can come out on top.
+
+## Store Link 
+Google Play: https://play.google.com/store/apps/details?id=com.AssemDev.domino_game
 
 ## Installing
 
